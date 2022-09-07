@@ -1,3 +1,3 @@
 # test-repo
 
-Fork from this repo 
+Fork this repo 
